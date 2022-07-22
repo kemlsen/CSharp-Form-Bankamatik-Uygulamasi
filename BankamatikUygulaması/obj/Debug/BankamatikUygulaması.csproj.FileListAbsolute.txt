@@ -1,0 +1,12 @@
+C:\Users\Kemal\source\repos\BankamatikUygulaması\BankamatikUygulaması\bin\Debug\BankamatikUygulaması.exe.config
+C:\Users\Kemal\source\repos\BankamatikUygulaması\BankamatikUygulaması\bin\Debug\BankamatikUygulaması.exe
+C:\Users\Kemal\source\repos\BankamatikUygulaması\BankamatikUygulaması\bin\Debug\BankamatikUygulaması.pdb
+C:\Users\Kemal\source\repos\BankamatikUygulaması\BankamatikUygulaması\obj\Debug\BankamatikUygulaması.csproj.AssemblyReference.cache
+C:\Users\Kemal\source\repos\BankamatikUygulaması\BankamatikUygulaması\obj\Debug\BankamatikUygulaması.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kemal\source\repos\BankamatikUygulaması\BankamatikUygulaması\obj\Debug\BankamatikUygulaması.Form1.resources
+C:\Users\Kemal\source\repos\BankamatikUygulaması\BankamatikUygulaması\obj\Debug\BankamatikUygulaması.Properties.Resources.resources
+C:\Users\Kemal\source\repos\BankamatikUygulaması\BankamatikUygulaması\obj\Debug\BankamatikUygulaması.csproj.GenerateResource.cache
+C:\Users\Kemal\source\repos\BankamatikUygulaması\BankamatikUygulaması\obj\Debug\BankamatikUygulaması.csproj.CoreCompileInputs.cache
+C:\Users\Kemal\source\repos\BankamatikUygulaması\BankamatikUygulaması\obj\Debug\BankamatikUygulaması.exe
+C:\Users\Kemal\source\repos\BankamatikUygulaması\BankamatikUygulaması\obj\Debug\BankamatikUygulaması.pdb
+C:\Users\Kemal\source\repos\BankamatikUygulaması\BankamatikUygulaması\obj\Debug\BankamatikUygulaması.Form2.resources
